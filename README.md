@@ -39,13 +39,18 @@ I am a skilled mid-level Frontend Developer with a track record of 2 years in cr
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-<b>My GitHub Stats</b>
 ## 🔗 Links
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Muneebweb426)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfrtRrbqhHwbZGdCdbXjbWwtrVwWtvxfsrxzzQpfTgtqqxpShRWTkxNLDxbjtRPvCtCZVV)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%2300AFF0.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muneeb-saleem/)
-
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.instagram.com/muneebsaleem425/)
 
-<a href="http://www.github.com/Muneebweb426"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneebweb426&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<h2 >My GitHub Stats 📈</h2>
+<table align="center">
+<tr><td align="center" valign="middle"><div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muneebweb426&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Muneebweb426" /></div></td>
+<td align="center" valign="middle">
+<div align="center" style="margin-bottom:20px"><img align="center" src="https://streak-stats.demolab.com/?user=Muneebweb426&theme=tokyonight" alt="Muneebweb426"/></div>
+</tr>
+</table>
