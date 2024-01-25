@@ -7,15 +7,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&width=700&lines=Muneeb+Saleem+-+Front-End-Developer;Figma+%2F+WordPress+%2F+JavaScript+%2F+React.js" alt="Typing SVG" /></a>
 </p>
-
-
-
-  
-[![Linkedin Badge](https://img.shields.io/badge/-MuneebSaleem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muneeb-saleem/)](https://www.linkedin.com/in/muneeb-saleem/)
-[![Instagram Badge](https://img.shields.io/badge/-muneebsaleem425-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/muneebsaleem425/)](https://www.instagram.com/muneebsaleem425/)
-[![Gmail Badge](https://img.shields.io/badge/-wdeveloper426@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wdeveloper426@gmail.com)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfrtRrbqhHwbZGdCdbXjbWwtrVwWtvxfsrxzzQpfTgtqqxpShRWTkxNLDxbjtRPvCtCZVV)
-
-
 I am a skilled mid-level Frontend Developer with a track record of 2 years in crafting dynamic web applications and websites. My expertise spans HTML, CSS, JavaScript, and various front-end technologies. I am adept at designing intuitive user interfaces through contemporary web frameworks and libraries like React and Vue.js. Proficiency in code debugging, troubleshooting, and performance enhancement are among my core strengths. My experience also extends to mobile development, and I am well-versed in collaborating remotely with teams.
 
 ### Frontend Developer
@@ -53,8 +44,8 @@ I am a skilled mid-level Frontend Developer with a track record of 2 years in cr
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Muneebweb426)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfrtRrbqhHwbZGdCdbXjbWwtrVwWtvxfsrxzzQpfTgtqqxpShRWTkxNLDxbjtRPvCtCZVV)
-[![Skype](https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://www.linkedin.com/in/muneeb-saleem/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-%2300AFF0.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muneeb-saleem/)
 
-
+[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.instagram.com/muneebsaleem425/)
 
 <a href="http://www.github.com/Muneebweb426"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneebweb426&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
